@@ -62,8 +62,8 @@
    text-align: center;
    width: 68px;
    position: fixed;
-   right: 13%;
-   bottom: 10%;
+   right: 10%;
+   bottom: 20%;
    z-index: 999;
    transition: 0.3s;
    -webkit-animation: hoverWave linear 1s infinite;
