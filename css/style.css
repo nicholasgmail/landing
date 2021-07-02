@@ -97,9 +97,9 @@
    opacity: 1;
    font-size: 11px;
 }
-.gtukopes-amiktun:hover i {
+/* .gtukopes-amiktun:hover i {
    display: none;
-}
+} */
 
 .gtukopes-amiktun:hover {
    z-index: 1;
